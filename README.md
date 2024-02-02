@@ -1,4 +1,4 @@
-# @motionhungry/github-actions
+# github-actions
 
 This repository hosts a collection of reusable GitHub Actions designed to simplify and automate CI/CD workflows and other common automation tasks. These actions are crafted to be easily integrated into your projects, enhancing efficiency and reducing repetitive setup tasks.
 
