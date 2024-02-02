@@ -14,7 +14,7 @@ To use the `install-pnpm` action in your workflow, add the following step:
 
 ```yaml
 - name: Install dependencies with pnpm
-  uses: motionhungry/github-actions/install-pnpm@main
+  uses: motionhungry/github-actions/install-pnpm@v1
   with:
     fetch-depth: '1'  # Optional, the default is 1
     persist-credentials: true  # Optional, the default is true
